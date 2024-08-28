@@ -156,5 +156,3 @@ app.listen(3000, () => {
 });
 ```
 
-This code snippet illustrates how each request type is handled in an Express.js application.
-
