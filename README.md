@@ -1,4 +1,4 @@
-Q-1. Make model to store data ( Make Schemas ) Insert Record into MongoDB
+## Q-1. Make model to store data ( Make Schemas ) Insert Record into MongoDB
 
 
 1. **Define a Schema**:
@@ -14,7 +14,7 @@ Q-1. Make model to store data ( Make Schemas ) Insert Record into MongoDB
    - Alternatively, you can use methods like `insertMany` to add multiple records at once.
 
 
-Q-2. Fetch record from mongoDB Delete Record from MongoDB
+## Q-2. Fetch record from mongoDB Delete Record from MongoDB
 
 
 Fetching and deleting records in MongoDB involves using various methods provided by MongoDB drivers or libraries. Here’s a brief explanation of each operation:
@@ -49,7 +49,7 @@ Fetching and deleting records in MongoDB involves using various methods provided
 - **Deleting Records**: Use `deleteOne` for a single document or `deleteMany` for multiple documents, specifying deletion criteria.
 
 
-3.UPDATE OR MODIFY OR CHANGE RECORD IN MONGODB
+## Q-3.UPDATE OR MODIFY OR CHANGE RECORD IN MONGODB
 
 
 Updating or modifying records in MongoDB involves using specific methods to alter existing documents in a collection. Here’s a brief overview of how you can perform these operations:
@@ -91,7 +91,7 @@ Updating or modifying records in MongoDB involves using specific methods to alte
 - **Update Many Documents**: Use `updateMany` with a query and update operations to modify multiple documents that match the criteria.
 
 
-Q-4. Node.js App Types of Requests (GET, POST, PUT, DELETE) CRUD operation with API
+## Q-4. Node.js App Types of Requests (GET, POST, PUT, DELETE) CRUD operation with API
 
 In a Node.js application, you often work with RESTful APIs to perform CRUD (Create, Read, Update, Delete) operations. Here's a brief overview of the different types of HTTP requests used for these operations:
 
